@@ -5,6 +5,9 @@ Interactive Form Builder An interactive and dynamic form builder built with Reac
 ## Time Spent
 It took me around 4 hours to complete this.
 
+## Issues in the project
+I had some issues as CSS was unable to be implemented even after multiple attempts.
+
 ## How to start react
 
 In VS Code, Open Terminal(Ctrl+Shift+`)
