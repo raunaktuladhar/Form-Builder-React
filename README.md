@@ -2,6 +2,9 @@
 
 Interactive Form Builder An interactive and dynamic form builder built with React, JavaScript, and TailwindCSS. This tool allows users to create custom forms by adding and removing form fields dynamically. It also supports form validation, preview mode, and form submission.
 
+## Time Spent
+It took me around 4 hours to complete this.
+
 ## How to start react
 
 In VS Code, Open Terminal(Ctrl+Shift+`)
